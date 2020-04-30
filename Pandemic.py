@@ -17,7 +17,7 @@ red = (255, 0, 0)
 
 clock = pygame.time.Clock()
 
-dudes = 10000
+dudes = 1000
 radius = 10
 infect = 0.3
 movement = 7
